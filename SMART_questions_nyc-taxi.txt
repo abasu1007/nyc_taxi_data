@@ -1,0 +1,10 @@
+1. is it possible to work with the entire dataset?
+2. What's the best way to optimize the how the data is parsed by python?
+
+Problem statements:
+1. Does distance correlate with time of travel? what's the p-value.
+2. is tip proportional to the fare amount.
+3. what proportion of people pay with credit card.
+4. how does the pickup and dropoff location vary with the time of the day?
+5. can you predict the day's earnings from the kind of trips made by a driver from morning to noon.
+6. total no of taxis on the road at a given time.
